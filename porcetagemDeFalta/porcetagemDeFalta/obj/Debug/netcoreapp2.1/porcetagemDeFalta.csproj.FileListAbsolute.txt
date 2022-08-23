@@ -1,0 +1,11 @@
+C:\Users\aluno\source\repos\porcetagemDeFalta\porcetagemDeFalta\bin\Debug\netcoreapp2.1\porcetagemDeFalta.deps.json
+C:\Users\aluno\source\repos\porcetagemDeFalta\porcetagemDeFalta\bin\Debug\netcoreapp2.1\porcetagemDeFalta.runtimeconfig.json
+C:\Users\aluno\source\repos\porcetagemDeFalta\porcetagemDeFalta\bin\Debug\netcoreapp2.1\porcetagemDeFalta.runtimeconfig.dev.json
+C:\Users\aluno\source\repos\porcetagemDeFalta\porcetagemDeFalta\bin\Debug\netcoreapp2.1\porcetagemDeFalta.dll
+C:\Users\aluno\source\repos\porcetagemDeFalta\porcetagemDeFalta\bin\Debug\netcoreapp2.1\porcetagemDeFalta.pdb
+C:\Users\aluno\source\repos\porcetagemDeFalta\porcetagemDeFalta\obj\Debug\netcoreapp2.1\porcetagemDeFalta.csprojAssemblyReference.cache
+C:\Users\aluno\source\repos\porcetagemDeFalta\porcetagemDeFalta\obj\Debug\netcoreapp2.1\porcetagemDeFalta.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\porcetagemDeFalta\porcetagemDeFalta\obj\Debug\netcoreapp2.1\porcetagemDeFalta.AssemblyInfoInputs.cache
+C:\Users\aluno\source\repos\porcetagemDeFalta\porcetagemDeFalta\obj\Debug\netcoreapp2.1\porcetagemDeFalta.AssemblyInfo.cs
+C:\Users\aluno\source\repos\porcetagemDeFalta\porcetagemDeFalta\obj\Debug\netcoreapp2.1\porcetagemDeFalta.dll
+C:\Users\aluno\source\repos\porcetagemDeFalta\porcetagemDeFalta\obj\Debug\netcoreapp2.1\porcetagemDeFalta.pdb
